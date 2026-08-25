@@ -22,14 +22,44 @@ Here are some ideas to get you started:
 
 ```javascript
 const ashton = {
-  pronouns: "she" | "her",
-  skills: [HTML, CSS, JavaScript, Node.js, MongoDB, playing with APIs ],
-  hobbies: ["yoga", "traveling", "eating"],
-  location: Remote
+
+  focus: [
+    "Web Development",
+    "Technical Consulting",
+    "Enterprise CMS & Search",
+    "Technical Education",
+    "Developer Enablement"
+  ],
+
+  technologies: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Node.js",
+    "Next.js",
+    "REST APIs"
+  ],
+
+  interests: [
+    "Accessibility",
+    "Technical Documentation",
+    "Learning",
+    "Ethical AI"
+  ],
+
+  hobbies: ["yoga", "traveling", "reading"]
+
 }
 ```
 
 
-I'm a software engineer that is eager to learn and understand new concepts and ideas through collaborating with others, project development, and building a community. This GitHub is to display my progressive journey in learning new technologies.
+I started coding because I wanted to learn something new, and that curiosity eventually turned into a career in software development and technical education.
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, don't be shy!</b> :)</em>
+Since then, I’ve had the opportunity to work on enterprise digital experiences, consult with clients, teach software development, build curriculum and certification programs, mentor developers and learners, and spend a frankly unreasonable amount of time turning complicated technical concepts into documentation that humans can actually understand.
+
+This GitHub is a collection of things I’m building, experimenting with, learning, and occasionally breaking in productive ways.
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> I’m always interested in learning from other developers, educators, and people working at the intersection of technology and learning.
+
+If something here catches your <em><b>attention</b> , feel free to say <b>hello</b>.
+
